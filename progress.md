@@ -17,3 +17,15 @@
 ## Week 2 Goal
 Master data engineering pipeline —
 collection, cleaning, deduplication, quality filtering
+
+## Week 2 Summary — Data Engineering 
+- Built web scraper from scratch
+- Built full data cleaning pipeline
+- Built instruction dataset in Alpaca format
+- Implemented PII removal for enterprise safety
+- Mastered HuggingFace datasets operations
+- Combined 3 sources into one pipeline
+- 321 samples ready for fine tuning
+
+## Week 3 Goal
+Fine tune a real LLM using LoRA and QLoRA
