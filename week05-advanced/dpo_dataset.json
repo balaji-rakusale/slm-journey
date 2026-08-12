@@ -1,0 +1,42 @@
+[
+  {
+    "prompt": "### Instruction:\nClassify this news article.\n\n### Input:\nApple launches new iPhone today.\n\n### Response:",
+    "chosen": "Category: Technology\n\nThis article is about Apple's new iPhone product launch.",
+    "rejected": "I don't know what category this is. It could be anything."
+  },
+  {
+    "prompt": "### Instruction:\nWhat is machine learning?\n\n### Response:",
+    "chosen": "Machine learning is a subset of artificial intelligence that enables computers to learn from data without being explicitly programmed.",
+    "rejected": "Machine learning is something computers do. It's complicated and hard to explain."
+  },
+  {
+    "prompt": "### Instruction:\nSummarize this text.\n\n### Input:\nNeural networks learn patterns from large datasets.\n\n### Response:",
+    "chosen": "Neural networks automatically learn patterns and representations from large amounts of training data.",
+    "rejected": "The text talks about neural networks and datasets and learning stuff."
+  },
+  {
+    "prompt": "### Instruction:\nClassify this news article.\n\n### Input:\nFederal Reserve raises interest rates.\n\n### Response:",
+    "chosen": "Category: Business/Finance\n\nThis article covers monetary policy and economic news.",
+    "rejected": "This is a news article about something financial I think."
+  },
+  {
+    "prompt": "### Instruction:\nWhat is deep learning?\n\n### Response:",
+    "chosen": "Deep learning is a subset of machine learning that uses neural networks with multiple layers to learn complex patterns from large amounts of data.",
+    "rejected": "Deep learning is like really deep machine learning with lots of layers."
+  },
+  {
+    "prompt": "### Instruction:\nClassify this news article.\n\n### Input:\nLionel Messi wins Ballon d'Or award.\n\n### Response:",
+    "chosen": "Category: Sports\n\nThis article is about football/soccer and player recognition.",
+    "rejected": "Sports maybe? I'm not sure about this one."
+  },
+  {
+    "prompt": "### Instruction:\nWhat is a transformer model?\n\n### Response:",
+    "chosen": "A transformer is a neural network architecture that uses attention mechanisms to process sequential data, enabling models to understand relationships between all words simultaneously.",
+    "rejected": "Transformers are models that transform things. They use attention which helps them understand text."
+  },
+  {
+    "prompt": "### Instruction:\nExplain fine tuning.\n\n### Response:",
+    "chosen": "Fine tuning is the process of taking a pretrained language model and training it further on a specific dataset to adapt it for a particular task or domain.",
+    "rejected": "Fine tuning means making a model better by training it more on some data."
+  }
+]
